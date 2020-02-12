@@ -3,7 +3,7 @@ Heterogeneous Adversarial Deep Domain Adaptation
 
 
 
-The MMD calculation is conducted based on (Long et al., 2018), available at github.com/thuml/xlearn
+The MMD calculation as well as the learning rate scheduler for gradient descent is conducted based on (Long et al., 2018), available at github.com/thuml/xlearn
 
 # References
 
