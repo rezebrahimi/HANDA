@@ -1,7 +1,7 @@
 # HADDA
 Heterogeneous Adversarial Deep Domain Adaptation
 
-
+Mohammadreza Ebrahimi, Yidong Chai, Hao Helen Zhang, Hsinchun Chen. Under review in IEEE Transactions on Knowledge and Data Enginering.
 
 The MMD calculation as well as the learning rate scheduler for gradient descent is conducted based on (Long et al., 2018), available at github.com/thuml/xlearn
 
