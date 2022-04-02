@@ -1,5 +1,5 @@
 # HANDA
-Heterogeneous Adversarial Deep Domain Adaptation
+Heterogeneous Adversarial Neural Domain Adaptation
 
 Mohammadreza Ebrahimi, Yidong Chai, Hao Helen Zhang, Hsinchun Chen. Under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).
 
