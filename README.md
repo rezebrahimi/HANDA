@@ -1,7 +1,6 @@
 # HANDA
-Heterogeneous Adversarial Neural Domain Adaptation
-
-Mohammadreza Ebrahimi, Yidong Chai, Hao Helen Zhang, Hsinchun Chen. Under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).
+Heterogeneous Domain Adaptation with Deep Adversarial Representation Learning: Experiments on E-Commerce and Cybersecurity"
+Mohammadreza (Reza) Ebrahimi, Yidong Chai, Hao Helen Zhang, Hsinchun Chen. Under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.
 
 The MMD calculation as well as the learning rate scheduler for gradient descent is conducted based on (Long et al., 2018), available at github.com/thuml/xlearn.
 
